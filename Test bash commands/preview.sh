@@ -1,0 +1,1 @@
+libcamera-hello --autofocus-mode auto
